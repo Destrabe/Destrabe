@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎓 Estudiante de Ingeniería de Software.<br>📍 Perú | 19 años.<br>📱 Enfocado en el desarrollo con Flutter.<br>🔍 Aprendiendo sobre integración de APIs y buenas prácticas en desarrollo móvil.<br>💡 Interesado en mejorar la experiencia de usuario y la arquitectura de aplicaciones.<br>🛠 También tengo experiencia en Java y configuración de entornos de desarrollo.<br>🎯 Siempre buscando mejorar mis habilidades y asumir nuevos retos.</p>
+<p align="left">🎓 Estudiante de Ingeniería de Software.<br>📍 Perú | 20 años.<br>📱 Enfocado en el desarrollo con Flutter.<br>🔍 Aprendiendo sobre integración de APIs y buenas prácticas en desarrollo móvil.<br>💡 Interesado en mejorar la experiencia de usuario y la arquitectura de aplicaciones.<br>🛠 También tengo experiencia en Java y configuración de entornos de desarrollo.<br>🎯 Siempre buscando mejorar mis habilidades y asumir nuevos retos.</p>
 
 ###
 
